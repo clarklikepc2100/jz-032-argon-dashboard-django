@@ -2,5 +2,7 @@
 """
 Copyright (c) 2019 - present AppSeed.us
 """
-import pymysql
-pymysql.install_as_MySQLdb()
+
+from django.test import TestCase
+
+# Create your tests here.
